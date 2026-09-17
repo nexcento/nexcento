@@ -2,6 +2,9 @@
 
 # NexCento
 
+![](https://github.com/nexcento/nexcento/blob/main/nexcento.png?raw=true)
+
+
 ### Global Financial Markets • Trading Solutions • Market Access
 
 **Professional trading solutions designed to make financial markets more accessible, efficient, and supported.**
