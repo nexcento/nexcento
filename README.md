@@ -1,6 +1,6 @@
 <div align="center">
 
-# NexCento
+# Welcome to NexCento
 
 ![](https://github.com/nexcento/nexcento/blob/main/nexcento.png?raw=true)
 
